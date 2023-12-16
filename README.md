@@ -8,3 +8,6 @@ for **High King Maulgar** encounter in **Gruul's Lair** raid.
 Type: `/hkm`
 
 **NOTE**: You must be in a raid group to be able to assign players.
+
+![](docs/unassigned.png)
+![](docs/assigned.png)
