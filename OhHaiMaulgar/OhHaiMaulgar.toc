@@ -1,0 +1,14 @@
+## Interface: 20400
+## Title: |cff209ff9Oh, hai Maulgar!|r
+## Author: Obszczymucha
+## Version: 1.02
+## Notes: Manages assignments for High King Maulgar.
+## SavedVariables: OhHaiMaulgarDb
+
+src\modules.lua
+src\EventHandler.lua
+src\Db.lua
+src\BossGui.lua
+src\PlayerListGui.lua
+src\GroupRoster.lua
+main.lua
